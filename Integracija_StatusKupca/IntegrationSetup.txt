@@ -1,0 +1,9 @@
+http://bcserver-default:7048/BC/ODataV4/WebServiceMngmt_AuthenticationAndToken?company=CRONUS%20USA%2C%20Inc.&tenant=default
+http://bcserver-default:7048/BC/ODataV4/WebServiceMngmt_GetCompanyInformationWithValidToken?company=CRONUS%20USA%2C%20Inc.&tenant=default
+
+
+ADMIN
+P@ssw0rd
+
+ADMIN1
+ADMIN1
